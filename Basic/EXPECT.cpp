@@ -1,9 +1,9 @@
 /*
- * @author:		Utkal Sinha
+ * @author:	Utkal Sinha
  * @contact:	me@utkalsinha.com
  * @created on:	21.04.2020 17:16:08
  * @problem:	EXPECT	
- * @url:		https://www.spoj.com/problems/EXPECT/
+ * @url:	https://www.spoj.com/problems/EXPECT/
  */
 
 
